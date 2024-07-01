@@ -1,0 +1,79 @@
+/* Declarando */
+
+body{
+    font-family: Arial;
+    background-color: #000000;
+    color: crimson;
+    margin: 100px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.container{
+    border: 5px solid crimson;
+    border-radius: 20px;
+    background-color: #defaff;
+    color: #191217;
+    width: 800px;
+    margin: auto;
+}
+
+img{
+    margin: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+    width: 180px;
+    height: 180px;
+    box-shadow: 5px 10px #00000083;
+}
+
+button{
+    font-size: 18px;
+    color: white;
+    border-radius: 5px;
+    border-color: rgba(255, 0, 0, 0);
+    background-color: #8c031ce0;
+    width: 120px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.informacoes{
+    font-size: 18px;
+}
+.informacao{
+    margin-left: 50px;
+    width: 150px;
+    font-size: 18px;
+    background-color: #ffbebe;
+    border-color: #8C031C;
+    border-radius: 5px;
+}
+
+/* Funções */
+
+button:hover{
+    background-color: #c71b3a;
+    transform: scale(1.1);
+}
+input::placeholder{
+    color: #1b1b1b96;
+}
+
+input[type = "checkbox"]:hover{
+    accent-color: #000000;
+}
+
+input[type = "radio"]:hover{
+    accent-color: #000000;
+}
+
+input[type = "checkbox"]:focus{
+    accent-color: #5f0000;
+}
+
+input[type = "radio"]:focus{
+    accent-color: #5f0000;
+}
+
