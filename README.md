@@ -1,15 +1,34 @@
-<h1 align=center>Formulário !!</h1>
+<h1>Formulário</h1>
 
-<h3 align=center>Esse foi o resultado do meu formulário com funções de cadastro!! ⭐</h3>
+<h3>Essa foi minha primeira tentativa da criação de um sistema de cadastro</h3>
 
 <br>
-
-![image](https://github.com/htklucas/Formulario/assets/161860612/e02c70c8-9036-45c8-b67e-d1e03e95320e)
 
 <hr>
 
-<h3 align=center>Pré-Vizualização do meu código! 👽 </h3>
+<h3>Códigos do site cadastro</h3> 
+
+![FormHt](https://github.com/htklucas/Formulario-1/assets/161860612/82713fe3-0836-4cb5-8af4-83c904f65d44)
+<h5>Html site cadastro</h5>
 
 <br>
 
-![image](https://github.com/htklucas/Formulario/assets/161860612/63284460-058f-4b7c-ae21-1efea9da3846)
+![FormCss](https://github.com/htklucas/Formulario-1/assets/161860612/8f97f9ab-ded7-43eb-b3f9-bb4d7561c34a)
+<h5>Css site cadastro</h5>
+
+<hr>
+
+<h3>Códigos do site pós cadastro</h3> 
+
+![SitePosHT](https://github.com/htklucas/Formulario-1/assets/161860612/0a3e38f3-dece-408c-be08-fb82d512b703)
+<h5>Html site pós</h5>
+
+<br>
+
+![SitePosCSS](https://github.com/htklucas/Formulario-1/assets/161860612/8242d4d2-35b7-4197-9586-846345b0ee73)
+<h5>Css site pós</h5>
+
+<hr>
+
+![FormJS](https://github.com/htklucas/Formulario-1/assets/161860612/00808909-e309-46bf-816a-5c0f96c446bb)
+<h5>Java Script dos dois</h5>
